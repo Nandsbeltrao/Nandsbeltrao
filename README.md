@@ -1,5 +1,5 @@
 <h1 align="center"> What’s up! I’m Fernanda Beltrão – nice to meet you! 👋 </h1>
-##
+
 <p align="center">
     <img src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif" width="700">
 </p>
