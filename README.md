@@ -1,5 +1,5 @@
 <p align="center">
-    ## What’s up! I’m Fernanda Beltrão – nice to meet you! 👋
+## What’s up! I’m Fernanda Beltrão – nice to meet you! 👋
 </p>
 
 <p align="center">
