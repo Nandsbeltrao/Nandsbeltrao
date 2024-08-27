@@ -8,7 +8,7 @@
 
 <br>
 
-## ⭐️ **About me**
+## 🌟 **About me**
 
 I’m a front-end developer constantly evolving, always diving headfirst into the latest trends and technologies. My curiosity and creativity are my greatest assets, and I love thinking outside the box to create interfaces that not only work but also delight. With a strong passion for design, I’m always on the lookout to blend style and functionality. Like a digital chameleon, I adapt quickly to new challenges and am constantly updating my skills to keep up with the pace. If you’re looking for someone who brings innovation and a good dose of energy to what they do, you’ve found the right profile!
 
