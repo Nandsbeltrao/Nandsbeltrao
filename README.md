@@ -14,7 +14,8 @@ I’m a front-end developer constantly evolving, always diving headfirst into th
 
 ## 🖥️ Currently Working On:
 
-- Developing my skills in Front-End at Vai Na Web
+- Developing my skills by studying Java and working on related projects.
+- Returning to studying Python and exploring new projects.
 
 <br>
 
