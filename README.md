@@ -1,7 +1,7 @@
 <h1 align="center"> What’s up! I’m Fernanda Beltrão – nice to meet you! 👋 </h1>
 
 <p align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFpemh3bmw2MXI1aGZkd3JyZzZ5b2F6N2x0c2ZjcnU0MTJ2NWpvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VdIOjSRaMYxdS/giphy.gif" width="700">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5wODl0Y2N2a2ViZXZhZDNhZG1sZ3AweXprNHQ2ZmZvNnFkenpscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hj4iuKp8r8tbO/giphy.gif" width="700">
 </p>
 
 <br>
