@@ -1,20 +1,20 @@
-<h1 align="center"> What’s up! I’m Fernanda Beltrão – nice to meet you! 👋 </h1>
+<h1 align="center"> 💫 Coding with logic. Designing with feeling. </h1>
 
 <p align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc3cWQ1Z3dvZThwcW5od254ZngyaGtpeGdpZDVkMDNncWgzMWh6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PK1YQhAoBOpP2/giphy.gif" width="700">
+    <img src="https://wallpaperaccess.com/full/7270403.gif" width="700">
 </p>
 
 <br>
 
 ## 🌟 **About me**
 
-I’m a front-end developer constantly evolving, always diving headfirst into the latest trends and technologies. My curiosity and creativity are my greatest assets, and I love thinking outside the box to create interfaces that not only work but also delight. With a strong passion for design, I’m always on the lookout to blend style and functionality. Like a digital chameleon, I adapt quickly to new challenges and am constantly updating my skills to keep up with the pace. If you’re looking for someone who brings innovation and a good dose of energy to what they do, you’ve found the right profile!
+Passionate about building interfaces that don't just work, they delight. I bring logic, creativity, and a whole lot of energy to everything I code.
 
 <br>
 
 ## 🖥️ Currently Working On:
 
-- Developing my skills by studying Java and working on related projects.
+- Turning real-world challenges into polished front-end solutions and getting better at it every day.
 
 <br>
 
@@ -28,6 +28,8 @@ I’m a front-end developer constantly evolving, always diving headfirst into th
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+    <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
+    
 </div>
 
 <br>
